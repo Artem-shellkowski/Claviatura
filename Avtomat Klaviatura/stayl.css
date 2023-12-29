@@ -1,0 +1,27 @@
+.cells
+{
+    display: flex;
+	border-collapse: collapse;
+	border-spacing: 0;
+	width: 490px;
+    flex-direction:row;
+    flex-wrap: wrap;
+	justify-content:space-between ;
+
+}
+
+.cells div
+{
+	border: 1px solid #888;
+	padding: 10px;
+	text-align: center;
+	vertical-align: middle;
+	position: relative;
+
+
+}
+
+.cell_Probel{
+	width: 200px;
+	
+}
